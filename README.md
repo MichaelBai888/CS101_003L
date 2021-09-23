@@ -1,2 +1,6 @@
 # CS101_003L
- Programming skills
+ 
+
+ Name: Michael Bai
+ Contact: mbnmr@umkc.edu
+ Desination: Student
