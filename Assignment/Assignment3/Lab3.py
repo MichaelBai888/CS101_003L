@@ -1,4 +1,11 @@
-
+########################################################################
+##
+## CS 101 Lab
+## Program # The Great and Powerful Flarsheim
+## Name: Michael Bai
+## Email: mbnmr@umkc.edu
+##
+########################################################################
 print("Welcome to Flarsheim Guesser!")
 choice = 'y'
 while (choice == 'Y' or choice == 'y'):
@@ -34,3 +41,4 @@ while (choice == 'Y' or choice == 'y'):
     choice = input("Do you want to play again? Y to continue,N to quit ==>")
     while (choice != 'Y' and choice != 'N' and choice != 'y' and choice != 'n'):
         choice = input("Do you want to play again? Y to continue,N to quit ==>")
+
